@@ -1,0 +1,24 @@
+{
+	"Manufacturer": "Philips",
+	"PatientPosition": "HFS",
+	"SeriesDescription": "ImageMRSERIES",
+	"ProtocolName": "fMRI_BodyMap",
+	"SeriesNumber": 12,
+	"AcquisitionNumber": 12,
+	"ImageComments": "fMRI_PC",
+	"PhilipsRescaleSlope": 1.77949,
+	"PhilipsRescaleIntercept": 0,
+	"PhilipsScaleSlope": 0.00484611,
+	"UsePhilipsFloatNotDisplayScaling": 0,
+	"EchoTime": 0.025,
+	"RepetitionTime": 2.1,
+	"ImageOrientationPatientDICOM": [
+		1,
+		0,
+		0,
+		0,
+		1,
+		0	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20211006"
+}
